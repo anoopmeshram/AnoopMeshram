@@ -1,10 +1,10 @@
 <!-- GitHub Profile README for Anoop Meshram -->
 
 <h1 align="center">Hi 👋, I'm Anoop Meshram</h1>
-<h3 align="center">MBA | Civil Engineer | ML Enthusiast | Creative Strategist</h3>
+<h3 align="center">MBA in Marketing & Operations | Civil Engineer </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anoopmeshram&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=anoopmeshram&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views=100" />
   <img src="https://img.shields.io/github/followers/anoopmeshram?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
@@ -40,7 +40,7 @@ Power BI · MySQL · GitHub · Microsoft 365 · Zoom · Google Workspace
 | 🧱 **Geopolymer Concrete + ML** | Built ANN model (97% R²) to predict compressive strength |
 | 💧 **Rainwater Harvesting** | Sustainable water project implemented at Polytechnic campus |
 | 🔊 **Noise & Air Quality Mapping** | Monitored 10 cities with NEERI collaboration |
-| 🛍️ **Roji-Roti.com** | My own fashion startup for streetwear with 40K+ followers |
+| 🛍️ **Roji-Roti.com** | A Verfied Job Portal |
 
 ---
 
