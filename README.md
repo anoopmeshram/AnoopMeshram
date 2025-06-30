@@ -1,90 +1,83 @@
 <!-- GitHub Profile README for Anoop Meshram -->
 
 <h1 align="center">Hi 👋, I'm Anoop Meshram</h1>
-<h3 align="center">MBA | Marketing & Operations | Aspiring Data-Driven Marketer</h3>
+<h3 align="center">MBA | Civil Engineer | ML Enthusiast | Creative Strategist</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Marketing-Strategic-blue" />
-  <img src="https://img.shields.io/badge/Operations-Analytical-brightgreen" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Enthusiast-orange" />
-  <img src="https://img.shields.io/badge/Location-Nagpur-red" />
+  <img src="https://komarev.com/ghpvc/?username=anoopmeshram&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/anoopmeshram?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 ---
 
-<img align="right" alt="Anoop's Avatar" width="300" src="https://avatars.githubusercontent.com/u/yourusername?size=300"/>
+### 💼 Who I Am
 
-### 🎓 Education
-- **MBA** in Marketing & Operations – YCCE, Nagpur *(Pursuing)*
-- **B.E.** in Civil Engineering – GH Raisoni Academy of Engg. & Tech, Nagpur *(2023)*
-- **Diploma** in Civil Engineering – Anjuman Polytechnic, Nagpur *(2019)*
-
----
-
-### 💼 Experience & Projects
-- **President**, Social Media Club, YCCE
-- **Machine Learning Project**: Optimizing compressive strength of geopolymer concrete
-- **Rain Water Harvesting**: Designed a sustainable water solution for campus
-- **Noise Mapping**: Air quality and noise monitoring across Maharashtra
+🎓 **Civil Engineer** turned **MBA (Marketing & Operations)**  
+🧠 Passionate about blending **data, design & storytelling**  
+🧪 Published researcher in **Geopolymer Concrete & ML**  
+🎵 Music creator featured on Apple Music, Spotify & more  
+📢 Entrepreneur behind **Roji-Roti.com**
 
 ---
 
-### 🧠 Technical Skills
-- **Software**: AutoCAD, STAAD Pro, Canva, Photoshop, MS Office
-- **Tools**: Zotero, Elicit, Turnitin, Grammarly
-- **Programming**: HTML, Python, Java (basic)
-- **Others**: Zoom, WebEx, MS Teams, FTP, Networking Basics
+### 🔧 Skills
+
+#### Marketing & Research  
+Canva · Photoshop · Turnitin · Grammarly · Social Strategy · Market Analysis  
+
+#### Engineering & Analytics  
+AutoCAD · STAAD Pro · Python · MS Excel · ML Basics · Zotero · Research Writing  
+
+#### Tools & Platforms  
+Power BI · MySQL · GitHub · Microsoft 365 · Zoom · Google Workspace  
+
+---
+
+### 📚 Featured Projects
+
+| Project | Summary |
+|--------|---------|
+| 🧱 **Geopolymer Concrete + ML** | Built ANN model (97% R²) to predict compressive strength |
+| 💧 **Rainwater Harvesting** | Sustainable water project implemented at Polytechnic campus |
+| 🔊 **Noise & Air Quality Mapping** | Monitored 10 cities with NEERI collaboration |
+| 🛍️ **Roji-Roti.com** | My own fashion startup for streetwear with 40K+ followers |
+
+---
+
+### 🏆 Highlights
+
+- 🥇 Top Ranker in Civil Engineering (3 consecutive semesters)
+- 🥇 Gold Medal in Drawing & Painting (District level)
+- 📝 Articles & poems published in **Antaragni-2023**
+- 🎤 Presented at Indian Science Congress, NEERI workshops
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anoopmeshram&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anoopmeshram&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
 ### 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/anoopmeshram" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat" />
-  </a>
-  <a href="https://facebook.com/Anoop.Meshram.FC" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&style=flat" />
-  </a>
-  <a href="https://instagram.com/Anoop_Meshram" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=flat" />
-  </a>
-  <a href="https://twitter.com/Anoop_Meshram" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&style=flat" />
-  </a>
-  <a href="https://t.me/AnoopMeshram" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&style=flat" />
-  </a>
-  <a href="https://wa.me/918999053974" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&style=flat" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/anoopmeshram)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=flat-square)](https://instagram.com/anoop_meshram)  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&style=flat-square)](https://facebook.com/Anoop.Meshram.FC)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&style=flat-square)](https://twitter.com/Anoop_Meshram)  
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=flat-square)](https://t.me/AnoopMeshram)
 
 ---
 
-### 🏆 Achievements
-- 🥇 **1st Ranker** in 3 Consecutive Semesters (Civil Engg.)
-- 🥇 **Gold Medalist** in Drawing & Painting – Anjuman Polytechnic
-- 🏅 District Level Drawing Champion – Rotary Club
-- 📜 Research & Literary Publications in *Antaragni-2023*
+### ☕ Support My Work
+
+If you like what I do — support me with a coffee!  
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/anoopmeshram)
 
 ---
 
-### 📚 Extra-Curricular & Memberships
-- Member of:
-  - Entrepreneurship Development Club
-  - Corporate Social Responsibility Club
-  - American Concrete Institute (India Chapter)
-  - Green Health Foundation
-
----
-
-### 🔭 Current Goals
-- 🌱 Building a personal branding strategy on LinkedIn
-- 🤖 Applying ML in marketing analytics
-- 📈 Developing real-time dashboards for campaign tracking
-
----
-
-> _"Curiosity, Creativity & Consistency – The 3 Cs I live by."_ – Anoop Meshram
+> “Where creativity meets concrete — from structures to startups to songs.”
 
